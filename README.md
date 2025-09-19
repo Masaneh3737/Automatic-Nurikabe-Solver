@@ -47,3 +47,12 @@ grid = [
 ]
 
 solve(grid) 
+
+
+## How to Run
+
+1. Clone or download this repository.  
+2. Open the `Nurikabe_Solver.ipynb` notebook in Jupyter Notebook or JupyterLab.  
+3. Run all cells sequentially (Kernel → Restart & Run All) to reproduce the results.  
+
+No external libraries are required beyond standard Python libraries.
